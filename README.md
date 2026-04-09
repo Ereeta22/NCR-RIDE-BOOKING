@@ -61,7 +61,7 @@ Heatmaps: Correlation between numerical features
 Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, scipy
 Notebook: Jupyter Notebook (.ipynb)
 Data Analysis Techniques: EDA, descriptive statistics, hypothesis testing (T-Test, ANOVA), KPI calculations
-starting with some itro for this dataset
+
 
 8.Conclusion
 
